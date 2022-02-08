@@ -1,0 +1,1 @@
+window.location.href = "https://saicorporation.github.io/computers"
